@@ -2,13 +2,15 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neuropsychologia.2025.109290-blue)](https://doi.org/10.1016/j.neuropsychologia.2025.109290)
 
-This repository contains relevant code and materials supporting the following paper (also nicknamed the "NPRL CogMap Paper"):
+Welcome to the repository for **"Formation of allocentric representations after exposure to a novel, naturalistic, city-like, virtual reality environment"** (also nicknamed the NPRL "CogMap Paper"). 
 
-Bassil, Y., Kanukolanu, A., Funderburg, E., Brown, T., & Borich, M. R. (2026). Formation of allocentric representations after exposure to a novel, naturalistic, city-like, virtual reality environment. *Neuropsychologia, 220,* 109290. https://doi.org/10.1016/j.neuropsychologia.2025.109290
+> Bassil, Y., Kanukolanu, A., Funderburg, E., Brown, T., & Borich, M. R. (2026). Formation of allocentric representations after exposure to a novel, naturalistic, city-like, virtual reality environment. *Neuropsychologia, 220,* 109290. https://doi.org/10.1016/j.neuropsychologia.2025.109290
 
-All data for this paper can be found on the associated [CogMap OSF Project](https://osf.io/7dfcu/overview).
+This repository contains all **analysis code, figures, and statistical tests** associated with this study. 
 
-This repository contains all analysis code, figures, and statistical tests associated with this study. The project examines how individuals develop allocentric (i.e., world-centered) spatial representations after exploring a novel, virtual reality, city-like environment.
+All **data** for this paper can be found on the associated [CogMap OSF Project](https://osf.io/7dfcu/overview).
+
+The project examines how individuals develop allocentric (i.e., world-centered) spatial representations after exploring a novel, virtual reality, city-like environment.
 
 Below is an explanation of the folder structure in this repository. Feel free to reach out to the Neural Plasticity Research Lab via our [website](https://npresearchlab.com) or contact Yasmine Bassil at [ybassil@emory.edu](mailto:ybassil@emory.edu) with any questions.
 
